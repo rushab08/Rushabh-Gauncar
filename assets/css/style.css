@@ -255,6 +255,16 @@ li{
     top: 60%;
 
 }
+#contact a{
+    text-decoration: none;
+    font-family: var(--font-base);
+    color: antiquewhite;
+    font-size: 20px;
+    transition: 0.5s;
+}
+#contact a:hover{
+    color: var(--ascolor);
+}
 /* //Contact */
 /* //Content-Wrapper */
 
