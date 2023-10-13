@@ -145,6 +145,7 @@ hr{
     font-family: var(--font-base);
     color: antiquewhite;
     border-color: antiquewhite;
+    transition: transform .2s;
 }
 .card:hover{
     box-shadow: 10px -10px 0 0 var(--ascolor);
